@@ -5,8 +5,7 @@ From browsing products to secure checkout, SmartCart provides a seamless, intuit
 
 ✨ Features
 
-✅ Browse & Search Products – Explore rich product listings with search functionality
-💖 Wishlist & Cart – Save favorites or add items to your cart with a single tap
+✅ Browse & Search Products – Explore rich product listings with search functionality                                                                                         💖 Wishlist & Cart – Save favorites or add items to your cart with a single tap
 🛍️ Seamless Ordering – Place orders with a clear, interactive order summary screen
 💳 Secure Payments – Integrated with Razorpay (or third-party) payment gateway
 📦 Order History – Track past purchases with detailed order status & info
