@@ -1,4 +1,4 @@
-#🛒 SmartCart – Product Management & Shopping App
+🛒 **SmartCart – Product Management & Shopping App**
 
 SmartCart is a modern React Native mobile application designed to simplify product management and shopping.
 From browsing products to secure checkout, SmartCart provides a seamless, intuitive shopping experience.
