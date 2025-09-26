@@ -1,39 +1,39 @@
-# SmartCart - Product Management Mobile App
+🛒 SmartCart – Product Management & Shopping App
 
-SmartCart is a React Native mobile application designed to simplify product management and shopping. Users can browse products, add items to a wishlist or cart, place orders, make payments, and view their order history — all within a sleek, intuitive interface.
+SmartCart is a modern React Native mobile application designed to simplify product management and shopping.
+From browsing products to secure checkout, SmartCart provides a seamless, intuitive shopping experience.
 
-Features
-Browse and search products with rich details
+✨ Features
 
-Add products to wishlist and shopping cart
+✅ Browse & Search Products – Explore rich product listings with search functionality
+💖 Wishlist & Cart – Save favorites or add items to your cart with a single tap
+🛍️ Seamless Ordering – Place orders with a clear, interactive order summary screen
+💳 Secure Payments – Integrated with Razorpay (or third-party) payment gateway
+📦 Order History – Track past purchases with detailed order status & info
+🏠 Address Management – Add, edit, and switch addresses easily during checkout
+⚡ Real-time Updates – Instant feedback and dynamic UI updates for all user actions
 
-Place orders seamlessly with order summary screen
+🛠️ Tech Stack
 
-Integrated payment gateway (e.g., Razorpay) for smooth checkout
+Frontend: React Native (Cross-platform for Android & iOS)
 
-View order history with detailed order status and info
+Backend: Spring Boot (REST APIs for product & order management)
 
-Address management with add/change options
+Language: Java (Service & Controller logic with clean architecture)
 
-Real-time updates and user feedback for actions
+Payments: Razorpay SDK (or any third-party gateway)
 
-Technologies Used
-React Native for cross-platform mobile app development (Android & iOS)
+🚀 Getting Started
+🔧 Prerequisites
 
-Razorpay (or third-party) for payment processing
-
-Spring Boot backend with REST APIs for order and product management
-
-Java for backend service and controller logic following best practices
-
-Getting Started
-Prerequisites
-Node.js installed
+Node.js
+ installed
 
 React Native CLI or Expo CLI setup
 
-Android Studio and/or Xcode for mobile emulators/simulators
+Android Studio and/or Xcode for emulators/simulators
 
-Java JDK and Maven/Gradle for Spring Boot backend
+Java JDK
+ + Maven/Gradle for Spring Boot backend
 
-Razorpay account keys for payment integration setup
+Razorpay account keys for payment integration
